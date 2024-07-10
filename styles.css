@@ -147,11 +147,12 @@ a {
   justify-content: center;
   align-items: center;
   column-gap: 10rem;
-  height: calc(100vh - 60px);
+  min-height: calc(100vh - 60px);
   background-color: var(--color3);
 }
 
 #contact h1 {
+  padding-top: 4rem;
   margin: 0;
   font-size: 4.5rem;
 }
