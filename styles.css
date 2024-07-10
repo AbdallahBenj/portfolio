@@ -105,9 +105,9 @@ a {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  max-width: 1200px;
+  max-width: 1280px;
   margin: auto;
-  padding: 0 60px 90px;
+  padding: 0 25px 90px;
 }
 
 .project-tile {
