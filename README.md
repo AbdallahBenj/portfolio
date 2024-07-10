@@ -1,2 +1,2 @@
-# portfolio
-Responsive Web Design Portfolio
+# Portfolio
+Portfolio Responsive Web Design
