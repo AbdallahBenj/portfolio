@@ -89,7 +89,7 @@ a {
 #projects {
   background-color: var(--color4);
   min-height: calc(100vh - 1px);
-  padding: 0 60px 90px;
+
 }
 
 #projects h1 {
@@ -107,6 +107,7 @@ a {
   align-items: center;
   max-width: 1200px;
   margin: auto;
+  padding: 0 60px 90px;
 }
 
 .project-tile {
@@ -146,7 +147,6 @@ a {
   justify-content: center;
   align-items: center;
   column-gap: 10rem;
-  padding: 0 60px 90px;
   height: calc(100vh - 60px);
   background-color: var(--color3);
 }
@@ -166,6 +166,7 @@ a {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  padding: 25px;
 }
 
 #contact a {
@@ -210,7 +211,7 @@ a {
 @media only screen and (max-width: 820px) {
 
   #projects h1 {
-  font-size: 6.7vw;
+  font-size: 7vw;
   }
 }
 
@@ -228,15 +229,16 @@ a {
   }
 
   #projects h1 {
-    font-size: 6.5vw;
+    font-size: 7vw;
   }
 
   #contact h1 {
-  font-size: 9vw;
+  font-size: 7vw;
   }
-  #contact a {
-  font-size: rem;
+  #contact p {
+  font-size: 3.5vw;
   }
+
 
 }
 
@@ -246,16 +248,8 @@ a {
   flex-direction: column;
   }
 
-  #contact h1 {
-  font-size: 9vw;
-  }
-
-  #contact p {
-  font-size: 4.6vw;
-  }
-
   #contact a {
-  font-size: 6vw;
+  font-size: 5vw;
   }
 }
 
