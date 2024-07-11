@@ -127,7 +127,7 @@ a {
 
 .project-tile img {
   width: 360px;
-  height: 220px;
+  height: auto;
   object-fit: cover;
   border-radius: 3px;
   border: 1px solid var(--color2);
@@ -260,6 +260,6 @@ a {
 
   .project-tile img {
   width: 85.8vw;
-  height: 52vw;
+  height: auto;
   }
 }
