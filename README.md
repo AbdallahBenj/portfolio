@@ -23,7 +23,7 @@ This project is part of the certification requirements. In this project, I built
 ## Installation
 To view my personal portfolio:
 
-🔗 [https://abdallahbenj.github.io/portfolio/](https://abdallahbenj.github.io/portfolio/)
+🔗 [Live Demo](https://abdallahbenj.github.io/portfolio/)
 
 
 Let’s create beautiful portfolios that showcase our work and talent! 🚀  
