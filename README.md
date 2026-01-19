@@ -22,7 +22,9 @@ It represents my first complete portfolio created using core web technologies.
 
 ## Live Demo
 
-🔗 https://abdallahbenj.github.io/portfolio/
+## 🌐 Demo
+
+🔗 [Portfolio Live Demo](https://abdallahbenj.github.io/new-portfolio/)
 
 ## Notes
 
