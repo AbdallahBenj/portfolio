@@ -24,7 +24,7 @@ It represents my first complete portfolio created using core web technologies.
 
 ## 🌐 Demo
 
-🔗 [Portfolio Live Demo](https://abdallahbenj.github.io/new-portfolio/)
+🔗 [Portfolio Live Demo](https://abdallahbenj.github.io/portfolio-html-css/)
 
 ## Notes
 
